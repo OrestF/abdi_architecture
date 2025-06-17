@@ -14,7 +14,8 @@ Everything revolves around 4 nodes: App, Business, Data, Infrastructure. Each no
 
 ### App
 
-![app.png](https://gist.github.com/assets/15248553/a190e4ec-c6a9-4e27-b4a1-4ce2d4d96d3d)
+![app.png](https://github.com/user-attachments/assets/5ae6db53-2a4a-4421-b8f5-301d00198125)
+
 
 ##### Responsibilities
 
@@ -37,7 +38,8 @@ Everything revolves around 4 nodes: App, Business, Data, Infrastructure. Each no
 
 ### Business
 
-[![business.png](https://gist.github.com/assets/15248553/cee33e58-8f8d-470c-9e9d-dfb8a6789e12)
+[![business.png](https://github.com/user-attachments/assets/092b353d-5804-444e-9a28-2f1d7e48c5e4)
+
 
 ##### Responsibilities
 
@@ -79,7 +81,8 @@ Structure:
 
 ### Data
 
-[![data.png](https://gist.github.com/assets/15248553/fd5e9b4a-b309-4e2b-a246-727e31e5d62d)
+![data.png](https://github.com/user-attachments/assets/0193462e-601b-4368-a89d-ac573e86b799)
+
 
 
 ##### Responsibilities
@@ -99,7 +102,8 @@ no business validation like: customer region validation, age validation, etc.
 
 ### Infrastructure
 
-![insfrastructure.pnd](https://gist.github.com/assets/15248553/22190a41-0457-4644-af83-add96ac9c20f)
+![infrastructure.png](https://github.com/user-attachments/assets/2ca7dfc5-a508-42eb-9254-b30b425f3493)
+
 
 
 ##### Responsibilities
