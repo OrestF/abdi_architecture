@@ -9,7 +9,7 @@ This is an overview of advanced rails architecture inspired by various patterns 
 
 Everything revolves around 4 nodes: App, Business, Data, Infrastructure. Each node has certain responsibilities that must be not used by other nodes.
 
-![ABDI.png](https://gist.github.com/assets/15248553/6a667bd7-0dae-4478-9177-9861852f1914)
+![ABDI.png](![image](https://github.com/user-attachments/assets/2ab995fa-b9cc-41f8-b686-2509c4c45efa))
 
 ### App
 
